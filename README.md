@@ -33,13 +33,9 @@ Buat teman teman yang ga mau pusing lagi masalah
 tapi tetap masih mau NGODING..
 Ayoo buruan pakai YBS Sistem..
 
-```
-Kini anda tidak perlu lagi membangun aplikasi dari awal
-```
+* Kini anda tidak perlu lagi membangun aplikasi dari awal
+* Anda cukup membuat form-form kerja saja pada template project,
 
-```
-Anda cukup membuat form-form kerja saja pada template project,
-```
 
 ## Fitur-fitur yang di sediakan
 * sistem login
@@ -77,7 +73,7 @@ namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
 
 
 ### YBS Sistem juga menyediakan data-login seperti :
-* user_id
+* _user_id
 * _user_name
 * _user_picture
 * _user_level_id
@@ -107,11 +103,11 @@ sehingga anda tidak perlu pusing membuat query join.
 private : data yang di input hanya dapat di Lihat,update,delete oleh user yang melakukan input.
 public  : data yang di input dapat di lihat,update,delete oleh semua user yang memiliki otorisasi yang sama.
 
-# Validasi Data Double or empty pada Form Create-Update
+* Validasi Data Double or empty pada Form Create-Update
 anda tidak perlu lagi repot melakukan coding validasi untuk data double or kosong,
 karena code nya sdh terbentuk otomasi pada File Controller.
 
-# Konfigurasi File hasil Generate
+* Konfigurasi File hasil Generate
 Konfigurasi File hasil Generate seperti file list,file create-update,terletak dlm sebuah file config 
 sehingga memudahkan saat ada perubahan title atau content table list,atau perubahan form input create-update.
 
