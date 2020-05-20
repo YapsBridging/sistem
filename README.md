@@ -76,7 +76,7 @@ Saat ini YBS system terpasang pada template tabler yang telah di modifikasi,
 namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
 
 
-###YBS Sistem juga menyediakan data-login seperti :
+### YBS Sistem juga menyediakan data-login seperti :
 * user_id
 * _user_name
 * _user_picture
@@ -92,24 +92,26 @@ namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
 sehingga anda tidak perlu melakukan query lagi,
 cukup mengunakan perintah $this..(lihat menu pada dokumentasi).
 
+
+### YBS CRUD Generator
 Ybs Sistem juga dilengkapi dengan YBS CRUD Generator,
 membuat semuanya semakin mudah..
 
 YBS CRUD Generator Memiliki Beberapa Kelebihan antara lain :
 
-### Table join
+* Table join
 memungkinkan melakukan join table dengan tingkat kedalaman join yang di inginkan. 
 sehingga anda tidak perlu pusing membuat query join.
 
-### Options Crud private / public.
+* Options Crud private / public.
 private : data yang di input hanya dapat di Lihat,update,delete oleh user yang melakukan input.
 public  : data yang di input dapat di lihat,update,delete oleh semua user yang memiliki otorisasi yang sama.
 
-### Validasi Data Double or empty pada Form Create-Update
+# Validasi Data Double or empty pada Form Create-Update
 anda tidak perlu lagi repot melakukan coding validasi untuk data double or kosong,
 karena code nya sdh terbentuk otomasi pada File Controller.
 
-### Konfigurasi File hasil Generate
+# Konfigurasi File hasil Generate
 Konfigurasi File hasil Generate seperti file list,file create-update,terletak dlm sebuah file config 
 sehingga memudahkan saat ada perubahan title atau content table list,atau perubahan form input create-update.
 
@@ -138,7 +140,7 @@ Pilihan Generate Type Input Untuk Form Create-Update,seperti Type :
 * [Notifikasi ke telegram](https://github.com/YapsBridging/sistem.git)
 
 
-###Video Tutorial
+### Video Tutorial
 
 * [INTERGRASI KE BOT TELEGRAM](https://youtu.be/Eu5K-gGFNr8)
 * [MENGIRIM PESAN KE TELEGRAM MELALUI FORM / KONDISI TERTENTU](https://youtu.be/ClkxoNFMEio)
