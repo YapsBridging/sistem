@@ -35,27 +35,27 @@ Ayoo buruan pakai YBS Sistem..
 
 ## adapun fitur-fitur yang di sediakan
 antara lain :
-* [sistem login]
-* [hak akses pengguna/level konfigurasi]
-* [user konfigurasi]
-* [reset password]
-* [First Page Loading]
-* [Menu Management]
-* [Menu Page Maintenance]
-* [Bot Manager -Telegram]
+* sistem login
+* hak akses pengguna/level konfigurasi
+* user konfigurasi
+* reset password
+* First Page Loading
+* Menu Management
+* Menu Page Maintenance
+* Bot Manager -Telegram
 
 tools tambahan :
-* [CRUD Generator]
-* [Dropzone Upload File]
-* [Combobox Link]
+* CRUD Generator
+* Dropzone Upload File
+* Combobox Link
 
 element html :
-* [Element : Default  Template Tabler]
-* [Element : Panel Style Admin LTE 3]
-* [Element : Button App Style Admin LTE 3]
-* [Element : Grafik Chart JS]
-* [Element : Panel Bootstrap]
-* [Element : Widget Counter Admin Lte]
+* Element : Default  Template Tabler
+* Element : Panel Style Admin LTE 3
+* Element : Button App Style Admin LTE 3
+* Element : Grafik Chart JS
+* Element : Panel Bootstrap
+* Element : Widget Counter Admin Lte
 
 ```
 kini anda tidak perlu lagi membangun aplikasi dari awal
@@ -108,13 +108,13 @@ Konfigurasi File hasil Generate seperti file list,file create-update,terletak dl
 sehingga memudahkan saat ada perubahan title atau content table list,atau perubahan form input create-update.
 
 Pilihan Generate Type Input Untuk Form Create-Update,seperti Type :
-* [Text (All) untuk  input semua karakter]
-* [Text (A-Z) hanya untuk alfabelt tanpa spasi]
-* [Text (0-9) hanya untuk number  tanpa spasi]
-* [Text (A-Z,0-9) hanya untuk alfabeth dan number tanpa spasi]
-* [Text Password]
-* [ComboBox    *menampilkan isi table field lain, konfigurasi pada file config]
-* [Date  menampilkan input date]
+* Text (All) untuk  input semua karakter
+* Text (A-Z) hanya untuk alfabelt tanpa spasi
+* Text (0-9) hanya untuk number  tanpa spasi
+* Text (A-Z,0-9) hanya untuk alfabeth dan number tanpa spasi
+* Text Password
+* ComboBox    *menampilkan isi table field lain, konfigurasi pada file config
+* Date  menampilkan input date
 
 
 
@@ -131,4 +131,32 @@ Pilihan Generate Type Input Untuk Form Create-Update,seperti Type :
 * [Combobox Chained/link](https://github.com/YapsBridging/sistem.git)
 * [Notifikasi ke telegram](https://github.com/YapsBridging/sistem.git)
 
+
+###Video Tutorial
+
+INTERGRASI KE BOT TELEGRAM
+https://youtu.be/Eu5K-gGFNr8
+
+MENGIRIM PESAN KE TELEGRAM MELALUI FORM / KONDISI TERTENTU
+https://youtu.be/ClkxoNFMEio
+
+KONEKSI SERVICE KE DATA BASE, DAN MENAMPILKAN DATA KE TELEGRAM
+https://youtu.be/q9aFv0c1wRQ
+
+SAMPLE BOT :
+https://t.me/ybsapp_bot
+
+
+ALL VIDIO
+https://www.youtube.com/playlist?list=PLa5lI5XCqbP55HISIuBnjAIXgVSwtBAGl
+
+
+ayo buruan dapatkan Source Codenya !!
+Terdapat Bermacam macam Trik-Trik yang jarang di temui..
+
+Penasaran?? ayo segera order..
+
+### Contact :
+* wa : +62 81342046414
+* email : bridging.system@gmail.com
 
