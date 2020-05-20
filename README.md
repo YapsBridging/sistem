@@ -33,8 +33,15 @@ Buat teman teman yang ga mau pusing lagi masalah
 tapi tetap masih mau NGODING..
 Ayoo buruan pakai YBS Sistem..
 
-## adapun fitur-fitur yang di sediakan
-antara lain :
+```
+Kini anda tidak perlu lagi membangun aplikasi dari awal
+```
+
+```
+Anda cukup membuat form-form kerja saja pada template project,
+```
+
+## Fitur-fitur yang di sediakan
 * sistem login
 * hak akses pengguna/level konfigurasi
 * user konfigurasi
@@ -58,30 +65,29 @@ element html :
 * Element : Widget Counter Admin Lte
 
 ```
-kini anda tidak perlu lagi membangun aplikasi dari awal
 YBS Sistem juga dapat melakukan pembatasan akses terhadap menu-menu,
 Menu pada setiap level user dapat berbeda beda sesuai dengan akses yang di berikan.
 ```
 
-### note :
-```
-perlu di perhatikan YBS System bukan sebuah plugin/Library yang dapat di pasang pada template-template lain..
-saat ini YBS system terpasang pada template tabler yang telah di modifikasi, 
-namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
-```
+### Catatan :
 
-YBS Sistem juga menyediakan data-login seperti :
-_user_id
-_user_name
-_user_picture
-_user_level_id
-_user_level_name
-_user_form_id
-_user_form_code
-_user_form_name
-_user_form_shortcut
-_is_dashboard
-_token
+Perlu di perhatikan YBS System bukan sebuah plugin/Library yang dapat di pasang pada template-template lain.
+Saat ini YBS system terpasang pada template tabler yang telah di modifikasi, 
+namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
+
+
+###YBS Sistem juga menyediakan data-login seperti :
+* user_id
+* _user_name
+* _user_picture
+* _user_level_id
+* _user_level_name
+* _user_form_id
+* _user_form_code
+* _user_form_name
+* _user_form_shortcut
+* _is_dashboard
+* _token
 
 sehingga anda tidak perlu melakukan query lagi,
 cukup mengunakan perintah $this..(lihat menu pada dokumentasi).
@@ -134,21 +140,11 @@ Pilihan Generate Type Input Untuk Form Create-Update,seperti Type :
 
 ###Video Tutorial
 
-INTERGRASI KE BOT TELEGRAM
-https://youtu.be/Eu5K-gGFNr8
-
-MENGIRIM PESAN KE TELEGRAM MELALUI FORM / KONDISI TERTENTU
-https://youtu.be/ClkxoNFMEio
-
-KONEKSI SERVICE KE DATA BASE, DAN MENAMPILKAN DATA KE TELEGRAM
-https://youtu.be/q9aFv0c1wRQ
-
-SAMPLE BOT :
-https://t.me/ybsapp_bot
-
-
-ALL VIDIO
-https://www.youtube.com/playlist?list=PLa5lI5XCqbP55HISIuBnjAIXgVSwtBAGl
+* [INTERGRASI KE BOT TELEGRAM](https://youtu.be/Eu5K-gGFNr8)
+* [MENGIRIM PESAN KE TELEGRAM MELALUI FORM / KONDISI TERTENTU](https://youtu.be/ClkxoNFMEio)
+* [KONEKSI SERVICE KE DATA BASE, DAN MENAMPILKAN DATA KE TELEGRAM](https://youtu.be/q9aFv0c1wRQ)
+* [SAMPLE BOT](https://t.me/ybsapp_bot)
+* [ALL VIDIO](https://www.youtube.com/playlist?list=PLa5lI5XCqbP55HISIuBnjAIXgVSwtBAGl)
 
 
 ayo buruan dapatkan Source Codenya !!
@@ -156,7 +152,7 @@ Terdapat Bermacam macam Trik-Trik yang jarang di temui..
 
 Penasaran?? ayo segera order..
 
-### Contact :
+### CONTACT :
 * wa : +62 81342046414
 * email : bridging.system@gmail.com
 
