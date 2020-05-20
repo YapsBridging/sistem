@@ -4,25 +4,36 @@ Ybs-system merupakan sebuah minimum sistem
 yang umumnya di miliki oleh sebuah aplikasi, 
 dan terpasang pada sebuah template admin.
 
+```
 Ybs-sistem saat ini terpasang hanya 
 pada template admin tabler yang telah dimodifikasi...
 
+Project ini dibangun menggunakan :
+* Template tabler
+* framework CodeIgniter Version 3.1.9
+* database Mysqli
+* php 7.1.10.
+* Bootstrap 3.
+
+```
+
+
+
 Buat teman teman yang ga mau pusing lagi masalah
-* [sistem login]
-* [hak akses pengguna/level konfigurasi]
-* [user konfigurasi]
-* [reset password]
-* [Menu Management]
-* [Upload File]
-* [First Page Loading]
-* [Combobox Chained/link]
-* [Notifikasi ke telegram]
+* [sistem login](https://github.com/YapsBridging/sistem.git)
+* [hak akses pengguna/level konfigurasi](https://github.com/YapsBridging/sistem.git)
+* [user konfigurasi](https://github.com/YapsBridging/sistem.git)
+* [reset password](https://github.com/YapsBridging/sistem.git)
+* [Menu Management](https://github.com/YapsBridging/sistem.git)
+* [Upload File](https://github.com/YapsBridging/sistem.git)
+* [First Page Loading](https://github.com/YapsBridging/sistem.git)
+* [Combobox Chained/link](https://github.com/YapsBridging/sistem.git)
+* [Notifikasi ke telegram](https://github.com/YapsBridging/sistem.git)
 
 tapi tetap masih mau NGODING..
+Ayoo buruan pakai YBS Sistem..
 
-## ayoo buruan pakai YBS Sistem..
-
-adapun fitur-fitur yang di sediakan
+## adapun fitur-fitur yang di sediakan
 antara lain :
 * [sistem login]
 * [hak akses pengguna/level konfigurasi]
@@ -46,16 +57,18 @@ element html :
 * [Element : Panel Bootstrap]
 * [Element : Widget Counter Admin Lte]
 
-
+```
 kini anda tidak perlu lagi membangun aplikasi dari awal
-
 YBS Sistem juga dapat melakukan pembatasan akses terhadap menu-menu,
-
 Menu pada setiap level user dapat berbeda beda sesuai dengan akses yang di berikan.
+```
 
 ### note :
+```
 perlu di perhatikan YBS System bukan sebuah plugin/Library yang dapat di pasang pada template-template lain..
-saat ini YBS system terpasang pada template tabler yang telah di modifikasi, namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
+saat ini YBS system terpasang pada template tabler yang telah di modifikasi, 
+namun jika anda ingin menggunakan pada template lain maka tidak ada larangan.
+```
 
 YBS Sistem juga menyediakan data-login seperti :
 _user_id
@@ -104,23 +117,18 @@ Pilihan Generate Type Input Untuk Form Create-Update,seperti Type :
 * [Date  menampilkan input date]
 
 
-Project ini dibangun menggunakan :
-Template tabler
-framework CodeIgniter Version 3.1.9
-database Mysqli
-php 7.1.10.
-Bootstrap 3.
+
 
 
 ### YBS SISTEM Update 1.0.11 Feb 2020
-* [sistem login]
-* [hak akses pengguna/level konfigurasi]
-* [user konfigurasi]
-* [reset password]
-* [Menu Management]
-* [Upload File]
-* [First Page Loading]
-* [Combobox Chained/link]
-* [Notifikasi ke telegram]
+* [sistem login](https://github.com/YapsBridging/sistem.git)
+* [hak akses pengguna/level konfigurasi](https://github.com/YapsBridging/sistem.git)
+* [user konfigurasi](https://github.com/YapsBridging/sistem.git)
+* [reset password](https://github.com/YapsBridging/sistem.git)
+* [Menu Management](https://github.com/YapsBridging/sistem.git)
+* [Upload File](https://github.com/YapsBridging/sistem.git)
+* [First Page Loading](https://github.com/YapsBridging/sistem.git)
+* [Combobox Chained/link](https://github.com/YapsBridging/sistem.git)
+* [Notifikasi ke telegram](https://github.com/YapsBridging/sistem.git)
 
 
